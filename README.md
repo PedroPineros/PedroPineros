@@ -1,6 +1,6 @@
 # ¡Hola!, Soy Pedro Piñeros 👋🏽
 ###  Desarrollador Web Full Stack 👨🏽‍💻
-![Github stats](https://github-readme-stats.vercel.app/api?username=pedropineros&theme=omni&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?pedropineros=anuraghazra&show_icons=true&theme=radical)
 
 
 
