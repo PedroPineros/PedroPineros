@@ -1,9 +1,6 @@
 # ¡Hola!, Soy Pedro Piñeros 👋🏽
 ###  Desarrollador Web Full Stack 👨🏽‍💻
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPineros&show_icons=true&theme=tokyonight)
-
-
-
 ------------
 ##### Desarrollo aplicaciones web, Tecnologías utilizadas: React-Redux, React.JS, React-Bootstrap, CSS3, HTML, JavaScript, Node.JS, Express.
 ##### **APLICATIVOS WEBS:**
@@ -19,6 +16,11 @@
 - Desarrollo de diseño de los diferentes componentes del aplicativo. 
 - Adaptación (Responsive) de la Ecommerce a diferentes tamaños de pantallas.
 
+<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPineros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
