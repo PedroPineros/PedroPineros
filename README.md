@@ -17,9 +17,3 @@
 - Diseño y creación de logo y banners promocionales de la Ecommerce.
 - Desarrollo de diseño de los diferentes componentes del aplicativo. 
 - Adaptación (Responsive) de la Ecommerce a diferentes tamaños de pantallas.
-
-<code><img height="20" src="![linkedin](https://user-images.githubusercontent.com/40897414/138632805-1dc03fdc-4eb1-428c-9149-6996198a781a.png)
-"></code>
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPineros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-
