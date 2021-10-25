@@ -1,6 +1,6 @@
 # ¡Hola!, Soy Pedro Piñeros 👋🏽
 ###  Desarrollador Web Full Stack 👨🏽‍💻
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPineros&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPineros&show_icons=true&theme=tokyonight)
 
 ------------
 ##### Desarrollo aplicaciones web, Tecnologías utilizadas: React-Redux, React.JS, React-Bootstrap, CSS3, HTML, JavaScript, Node.JS, Express.
