@@ -18,7 +18,7 @@
 - Desarrollo de diseño de los diferentes componentes del aplicativo. 
 - Adaptación (Responsive) de la Ecommerce a diferentes tamaños de pantallas.
 
-<code><img height="20" src="https://www.freepik.com/free-icon/linkedin_15539662.htm#page=1&query=linkedin&position=1&from_view=search"></code>-->
+<code><img height="20" src="https://www.freepik.com/free-icon/linkedin_15539662.htm#page=1&query=linkedin&position=1&from_view=search"></code>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPineros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
