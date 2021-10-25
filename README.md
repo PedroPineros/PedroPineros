@@ -8,7 +8,7 @@
 ##### Desarrollo aplicaciones web, Tecnologías utilizadas: React-Redux, React.JS, React-Bootstrap, CSS3, HTML, JavaScript, Node.JS, Express.
 ##### **APLICATIVOS WEBS:**
 ###### - Dogs 🐶
-> - Filtrados de orden ascendente y descendentemente, peso máximo y mínimo, tipo de raza, tipo de temperamentos, búsqueda de nombre de raza.
+- > Filtrados de orden ascendente y descendentemente, peso máximo y mínimo, tipo de raza, tipo de temperamentos, búsqueda de nombre de raza.
 > - Detalles de Raza de perro
 > - Consumo de Api.
 > - Creación de nuevas razas de perros.
