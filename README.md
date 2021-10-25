@@ -22,5 +22,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPineros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![javascript](https://user-images.githubusercontent.com/40897414/138631711-bff696f4-8255-4b2d-a006-f9d39f4b6460.png)
-
