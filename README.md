@@ -1,4 +1,4 @@
-#¡Hola!, Soy Pedro Piñeros 👋🏽
+# ¡Hola!, Soy Pedro Piñeros 👋🏽
 ###  Desarrollador Web Full Stack 👨🏽‍💻
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pedropineros&theme=omni&show_icons=true)
 
