@@ -1,8 +1,8 @@
 # ¡Hola!, Soy Pedro Piñeros 👋🏽
 ###  Desarrollador Web Full Stack 👨🏽‍💻
-
+![Video Pedro Piñeros](https://user-images.githubusercontent.com/40897414/138632404-c63e5e01-8d10-4111-8390-b1ba9d0cf710.gif)
 ------------
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ------------
 ##### Desarrollo aplicaciones web, Tecnologías utilizadas: React-Redux, React.JS, React-Bootstrap, CSS3, HTML, JavaScript, Node.JS, Express.
 ##### **APLICATIVOS WEBS:**
